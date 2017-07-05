@@ -1,0 +1,2 @@
+INSERT INTO `pmw_admin` VALUES('1','admin','c3284d0f94606de1fd2af172aba15bf3','','0','','1','true','0.0.0.0','1463472760');
+INSERT INTO `pmw_admin` VALUES('2','cuichangli','d7c6c07a0a04ba4e65921e2f90726384','','0','','2','true','127.0.0.1','1441790820');

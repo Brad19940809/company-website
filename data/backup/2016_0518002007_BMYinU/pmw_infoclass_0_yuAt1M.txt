@@ -1,0 +1,8 @@
+INSERT INTO `pmw_infoclass` VALUES('1','1','0','0,','2','产品案例','Product Case','','','','','','','','1','true');
+INSERT INTO `pmw_infoclass` VALUES('2','1','0','0,','2','最新资讯','Latest News','','','','','','','','2','true');
+INSERT INTO `pmw_infoclass` VALUES('15','1','1','0,1,','2','企业网站','Corporate Website','','','','','','','','14','true');
+INSERT INTO `pmw_infoclass` VALUES('16','1','1','0,1,','2','商城','shop','','','','','','','','15','true');
+INSERT INTO `pmw_infoclass` VALUES('17','1','1','0,1,','2','最新创意','Latest Creative','','','','','','','','16','true');
+INSERT INTO `pmw_infoclass` VALUES('20','1','2','0,2,','2','企业动态','Entreprise\'s news','','','','','','','','19','true');
+INSERT INTO `pmw_infoclass` VALUES('21','1','2','0,2,','2','行业观点','Industry Views','','','','','','','','20','true');
+INSERT INTO `pmw_infoclass` VALUES('22','1','2','0,2,','2','网站优化','Website Optimization','','','','','','','','21','true');
